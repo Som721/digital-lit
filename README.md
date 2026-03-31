@@ -1,0 +1,1 @@
+My Name is Som Sen(25BAI11412) currently a first year student 2025 batch at Vellore Institute of Technology Bhopal branch pursuing B-TECH specilization in AIML.I wish to master Python (along with libraries like NumPy, Pandas, Scikit-learn, PyTorch/TensorFlow), fundamental mathematics (linear algebra, calculus, probability/statistics), and core machine learning algorithms
